@@ -10,7 +10,7 @@
   <img src="code.gif">
 </p>
 <p align="center">
-  <img src="1eb8dff28222a11acc3a1926a94d26fd.gif">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/1eb8dff28222a11acc3a1926a94d26fd.gif">
 </p>
 <p align="center">
   <img src="coder.gif">
