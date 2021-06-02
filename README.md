@@ -10,12 +10,12 @@ Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
 ## ☕GRACIAS POR VISITAR MI PERFIL☕
 
 <p align="center"> 
-  aling="center"Visitas<br>
+Visitas<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 <p align="center"> 
-  Visitas<br>
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/website.svg" />
+  Mi web<br>
+  [https://www.moriel.ga/]<img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/website.svg" />
 </p>
 
 <p align="center">
