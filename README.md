@@ -7,7 +7,7 @@ Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
 
 
 
-##### ☕GRACIAS POR VISITAR MI PERFIL☕
+## ☕GRACIAS POR VISITAR MI PERFIL☕
 
 <p align="center"> 
   Visitas<br>
