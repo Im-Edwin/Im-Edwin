@@ -1,9 +1,21 @@
 ## 👋 Hello!
 #  I'M EDWIN MORIEL!
 
+Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
+🐳Lo realizo desde hace más de un año </br> 🐳
+🤖Practico en tiempo libre; porque aún estudio.🤖
+
+
+
+##### ☕GRACIAS POR VISITAR MI PERFIL☕
+
 <p align="center"> 
   Visitas<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+<p align="center"> 
+  Visitas<br>
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/website.svg" />
 </p>
 
 <p align="center">
