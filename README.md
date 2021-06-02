@@ -10,7 +10,7 @@ Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
 ## ☕GRACIAS POR VISITAR MI PERFIL☕
 
 <p align="center"> 
-  Visitas<br>
+  aling="center"Visitas<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 <p align="center"> 
