@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img src="code.gif">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/code.gif">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/1eb8dff28222a11acc3a1926a94d26fd.gif">
 </p>
 <p align="center">
-  <img src="coder.gif">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/developers-gif-showcase.gif">
 </p>
 <p align="center">
-  <img src="developers-gif-showcase.gif">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/coder.gif">
 </p>
 <p align="center">
-  <img src="techstack.gif">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/techstack.gif">
 </p>
 
 <p align="center">
