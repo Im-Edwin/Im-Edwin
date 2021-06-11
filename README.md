@@ -3,7 +3,7 @@
 
 Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
 *🐳Lo realizo desde hace más de un año 🐳 </br> 
-*🤖Practico en tiempo libre; porque aún estudio.🤖
+*🤖Practico en tiempo libre; porque aún estudio...🤖
 
 
 
