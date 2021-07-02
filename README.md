@@ -35,7 +35,9 @@ Visitas...<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/techstack.gif">
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Im-Edwin/web/main/d.png">
+</p>
 <p align="center"> 
   
 # ☕GRACIAS POR VISITAR MI PERFIL☕
