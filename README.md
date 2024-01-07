@@ -1,3 +1,4 @@
+[//]: <> (This is also a comment.)
 ## 👋 Hello!
 #  I'M EDWIN MORIEL!..
 
@@ -28,7 +29,7 @@ Visitas...<br>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/developers-gif-showcase.gif">
-</p>
+[//]: <> (</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/coder.gif">
 </p>
@@ -52,3 +53,4 @@ Visitas...<br>
 
 </p>
   
+)
