@@ -1,45 +1,14 @@
 [//]: # (
 ## 👋 Hello!
 #  I'M EDWIN MORIEL!..
-
-Hola mi nombre es EDWIN y disfruto mucho de la programación </br>
-*🐳Lo realizo desde el 2019 ...🐳 </br> 
-*🤖Practico en tiempo libre; porque aún estudio...🤖
-
-
-
-
-
 <p align="center"> 
 Visitas...<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 
-# 🌐 MI WEB 🌐: 
-  ## https://www.moriel.ga/
   
  <p align="center"> <br>
    <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/website.svg"  />
 
-# 🎈 IMÁGENES PARA LLAMAR LA ATENCIÓN: XD🎈 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/code.gif">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/1eb8dff28222a11acc3a1926a94d26fd.gif">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/developers-gif-showcase.gif">
-[//]: <> (</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/coder.gif">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/Im-Edwin/main/README/techstack.gif">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Im-Edwin/web/main/d.png">
-</p>
-<p align="center"> 
   
 # ☕GRACIAS POR VISITAR MI PERFIL☕
 <p align="center">
